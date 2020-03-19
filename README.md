@@ -7,3 +7,4 @@ In this playbook you'll be presented with **assets, resources, and tips to kicks
 ## Fundamentals
 
 1. [Enhance Your Linkedin Profile](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/guides/linkedin.md)
+2. [Prepare Your Resume](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/guides/resume.md)
