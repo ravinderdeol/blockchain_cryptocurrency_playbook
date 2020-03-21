@@ -12,4 +12,4 @@ In this playbook you'll be presented with **guides, resources, and assets to kic
 
 ## Resources
 
-* [Cryptocurrency & Blockchain Job Boards](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/data/job_boards.csv)
+* [Cryptocurrency & Blockchain Job Boards](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/job_boards.csv)
