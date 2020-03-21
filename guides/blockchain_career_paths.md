@@ -1,6 +1,6 @@
 # Blockchain Career Paths
 
-The most in-demand positions in the blockchain industry are software engineering. Research conducted by Glassdoor in May 2019 found that, software engineering positions dominated open blockchain job postings with a 23.32% share.
+The most in-demand positions in the blockchain industry are software engineering. Research conducted by Glassdoor in May 2019 found that, **software engineering positions dominated open blockchain job postings with a 23.32% share**.
 
 In order of top occupations for open blockchain positions, they are as follows:
 
