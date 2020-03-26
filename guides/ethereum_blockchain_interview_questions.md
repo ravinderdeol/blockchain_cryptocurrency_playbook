@@ -90,4 +90,30 @@
 
 `22. When A New Block Is Mined...`
 
-> A list Of Transactions, As Well As Uncles Is Incorporated In The Block. All Gas That Is Used During Those tTransactions Is Added To The Miners Balance. Also The Block Reward Is Added To The Miner, Then The Same Transactions Are Run Again By Every Participating Node In The Network To Achieve Consensus.
+> A List Of Transactions, As Well As Uncles Is Incorporated In The Block. All Gas That Is Used During Those tTransactions Is Added To The Miners Balance. Also The Block Reward Is Added To The Miner, Then The Same Transactions Are Run Again By Every Participating Node In The Network To Achieve Consensus.
+
+## Ethereum Programming Basics
+
+`23. Smart Contracts Can Be Written In...`
+
+> Solidity, Viper, LLL & Serpent As Those Are High-Level Languages That Are Compiled Down To Bytecode.
+
+`24. Solidity Gets Compiled To...`
+
+> Bytecodes - Essentially Opcodes Running Instruction By Instruction.
+
+`25. Gas Is Used...`
+
+> Depending On The Instruction/Opcode Run By The Ethereum Blockchain.
+
+`26. To Store Almost All Data In The Ethereum Blockchain...`
+
+> A Merkle Patricia Trie Is Used.
+
+`27. You Interact With A Smart Contract & See A Gas Usage Of 50,000 With A Cost of 15Gwei. How Much Ether Would You Have To Pay To The Miner?`
+
+> 750,000,000,000,000 Wei.
+
+`28. Checking The Balance Of An Address Inside A Loop Of A Smart Contract Constantly...`
+
+> Costs Gas Every Time We Check The Balance.
