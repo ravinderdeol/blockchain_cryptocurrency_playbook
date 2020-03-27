@@ -117,3 +117,17 @@
 `28. Checking The Balance Of An Address Inside A Loop Of A Smart Contract Constantly...`
 
 > Costs Gas Every Time We Check The Balance.
+
+## Ethereum Request For Comments
+
+`29. What’s The Difference Between ERC & EIP?`
+
+> Ethereum Request for Comments (ERC) Are Here To Define Standards For The Usage Of Ethereum. Ethereum Improvement Proposals (EIP) Are Here To Improve The Ethereum Protocol Itself.
+
+`30. What Is The Difference Between ERC20 & ERC721 Tokens In Simple Terms?`
+
+> The Tokens Of A Certain ERC-20 Symbol Are All The Same, The Tokens Of An ERC-721 Symbol Are All Different. So ERC-20 Tokens Are Fungible, While ERC-721 Tokens Are Non-Fungible.
+
+`31. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
+
+> totalSupply(), balanceOf(address), allowance(address, address), transfer(address, uint256), approve(address, uint256), transferFrom(address, address, uint256). Transfer(address, address, uint256), Approval(address, address, uint256)
