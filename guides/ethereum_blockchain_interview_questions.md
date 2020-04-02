@@ -131,3 +131,22 @@
 `31. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
 
 > totalSupply(), balanceOf(address), allowance(address, address), transfer(address, uint256), approve(address, uint256), transferFrom(address, address, uint256). Transfer(address, address, uint256), Approval(address, address, uint256)
+
+## Truffle & Ethereum Development Frameworks
+
+`32. Truffle Is...`
+
+> A Framework That Helps Developers With Testing, Deployment, Management Of Smart Contracts & Distributed Applications.
+
+`33. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
+
+> Run Tests Quickly For Free, Compared To The Alternative Of Continuous Deployment On The Main-Network. This Saves You A Lot Of Fees, Time & Costs.
+
+`34. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
+
+> Solidity & Javascript
+
+`35. With The Truffle Config File You Can Manage...`
+
+> Different Networks To Deploy Your Contracts To. This Way You Can Easily Deploy To A Local Blockchain, The Main-Net Or The Ropsten/Rinkeby Test-Net With Only One Parameter.
+
