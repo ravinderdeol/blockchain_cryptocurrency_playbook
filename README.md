@@ -19,3 +19,7 @@ In this playbook you'll be presented with **guides, resources, and assets to kic
 
 * [Ravinder Deol](https://twitter.com/ravinderdeolcom)
 * [Thomas Wiesner](https://www.linkedin.com/in/thomas-wiesner/)
+
+## Licence
+
+* [Creative Commons Attribution 4.0 International](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/license.txt)
