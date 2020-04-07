@@ -118,35 +118,77 @@
 
 > Costs Gas Every Time We Check The Balance.
 
+## Solidity Basics
+
+`29. Solidity Files...`
+
+> Can Be Spread Across Multiple Files. To Import All Contract From A File You Can Use “Import 'MyFile.Sol'. To Import Contract MyContract From MyFile.Sol You Use “Import {MyContract As SomeContract} From 'MyFile.Sol';”.
+
+`30. Files Can Be...`
+
+> Imported Using Relative & Absolute Paths, Where The “.” & The “..” Depict That It’s A Relative Path.
+
+`31. Importing From GitHub...`
+
+> Is Generally Possible, But Currently Works Only In Remix & Doesn’t Work In Truffle.
+
+`32. Single Line Comments In Solidity Work With...`
+
+> Either // Or ///.
+
+`33. Multi-Line Comments In Solidity Work With...`
+
+> With /* Comment */ Or /** @.. Natspec Style */
+
+`34. The Following Are Value Types In Solidity...`
+
+> Integer, Boolean, Enum & Addresses
+
+`35. To Compare A String In Solidity You Use...`
+
+> You Can’t Directly Compare Two Strings, But One Method Would Be To Hash Both Strings & Compare The Hashes.
+
+`36. If We Divide Two Integers: 5/2, The Result Is...`
+
+> 2 - Because The Decimal Is Truncated
+
+`37. A Struct Is A Great Way...`
+
+> To Define A New Datatype In Solidity, So You Don’t Need To Use Objects Of Another Contract.
+
+`38. A Mapping Consists Of Keys & Value.`
+
+> The Value Can Be Anything, But The Key Cannot Be Another Mapping, Struct, Enum Or Dynamically Sized Array.
+
 ## Ethereum Request For Comments
 
-`29. What’s The Difference Between ERC & EIP?`
+`39. What’s The Difference Between ERC & EIP?`
 
 > Ethereum Request for Comments (ERC) Are Here To Define Standards For The Usage Of Ethereum. Ethereum Improvement Proposals (EIP) Are Here To Improve The Ethereum Protocol Itself.
 
-`30. What Is The Difference Between ERC20 & ERC721 Tokens In Simple Terms?`
+`40. What Is The Difference Between ERC20 & ERC721 Tokens In Simple Terms?`
 
 > The Tokens Of A Certain ERC-20 Symbol Are All The Same, The Tokens Of An ERC-721 Symbol Are All Different. So ERC-20 Tokens Are Fungible, While ERC-721 Tokens Are Non-Fungible.
 
-`31. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
+`41. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
 
 > totalSupply(), balanceOf(address), allowance(address, address), transfer(address, uint256), approve(address, uint256), transferFrom(address, address, uint256). Transfer(address, address, uint256), Approval(address, address, uint256)
 
 ## Truffle & Ethereum Development Frameworks
 
-`32. Truffle Is...`
+`42. Truffle Is...`
 
 > A Framework That Helps Developers With Testing, Deployment, Management Of Smart Contracts & Distributed Applications.
 
-`33. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
+`43. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
 
 > Run Tests Quickly For Free, Compared To The Alternative Of Continuous Deployment On The Main-Network. This Saves You A Lot Of Fees, Time & Costs.
 
-`34. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
+`44. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
 
 > Solidity & Javascript
 
-`35. With The Truffle Config File You Can Manage...`
+`45. With The Truffle Config File You Can Manage...`
 
 > Different Networks To Deploy Your Contracts To. This Way You Can Easily Deploy To A Local Blockchain, The Main-Net Or The Ropsten/Rinkeby Test-Net With Only One Parameter.
 
