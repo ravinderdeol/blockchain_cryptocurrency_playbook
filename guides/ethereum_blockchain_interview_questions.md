@@ -160,35 +160,83 @@
 
 > The Value Can Be Anything, But The Key Cannot Be Another Mapping, Struct, Enum Or Dynamically Sized Array.
 
+`39. To Iterate Through A Mapping You...`
+
+> Need An External Helper Variable.
+
+`40. Function & Variable Visibility:`
+
+> A Function Marked As Internal Can't Be Called By Other Contracts, Unless The Function Is Used By A Derived Contract. Private Functions Can't Be Called By Any Other Outside Contract & Public Variables Are Generating Automatically A Getter Function.
+
+`41. View & Pure Functions:`
+
+> A View Function Can Access State Variables, But Not Write To Them. A Pure Function Can't Modify Or Read From State.
+
+`42. View & Pure Functions:`
+
+> Can Be Accessed During Transactions & Calls.
+
+`43. The Fallback Function:`
+
+> Can Contain As Much Logic As You Want, But It’s Better To Keep It Short & Not Exceed The Gas Stipend Of 2,300 Gas.
+
+`44. To Get The Address That Initiated The Transaction You Need To Use...`
+
+> Tx.Origin.
+
+`45. If A User Calls Contract A & That Calls Contract B, Then Msg.Sender In Contract B Will Contain The Address of?`
+
+> Contract A.
+
+`46. Loops in Solidity...`
+
+> Are Dangerous When Used With Data Structures That Grow Such As Arrays Or Mapping, Because It’s Hard To Estimate The Gas Requirements.
+
+`47. Events:`
+
+> Are Stored In Something Like A Side-Chain & Cannot Be Accessed By Contracts.
+
+`48. According To The Official Style Guide...`
+
+> Contract Names Should Be Capitalized, While Functions Should Be Mixed-Case. You Should Use 4 Spaces As Indentation & A Maximum Of 79 (Or 99) Characters Per Line.
+
+`49. A Version Pragma Is A Great Way...`
+
+> To Make It Clear For Which Compiler Version A Smart Contract Was Developed For. It Helps To Avoid Breaking Changes.
+
+`50. Variables Of The Type Address Store...`
+
+> A 20 Bytes Value.
+
 ## Ethereum Request For Comments
 
-`39. What’s The Difference Between ERC & EIP?`
+`51. What’s The Difference Between ERC & EIP?`
 
 > Ethereum Request for Comments (ERC) Are Here To Define Standards For The Usage Of Ethereum. Ethereum Improvement Proposals (EIP) Are Here To Improve The Ethereum Protocol Itself.
 
-`40. What Is The Difference Between ERC20 & ERC721 Tokens In Simple Terms?`
+`52. What Is The Difference Between ERC20 & ERC721 Tokens In Simple Terms?`
 
 > The Tokens Of A Certain ERC-20 Symbol Are All The Same, The Tokens Of An ERC-721 Symbol Are All Different. So ERC-20 Tokens Are Fungible, While ERC-721 Tokens Are Non-Fungible.
 
-`41. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
+`53. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
 
 > totalSupply(), balanceOf(address), allowance(address, address), transfer(address, uint256), approve(address, uint256), transferFrom(address, address, uint256). Transfer(address, address, uint256), Approval(address, address, uint256)
 
 ## Truffle & Ethereum Development Frameworks
 
-`42. Truffle Is...`
+`54. Truffle Is...`
 
 > A Framework That Helps Developers With Testing, Deployment, Management Of Smart Contracts & Distributed Applications.
 
-`43. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
+`55. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
 
 > Run Tests Quickly For Free, Compared To The Alternative Of Continuous Deployment On The Main-Network. This Saves You A Lot Of Fees, Time & Costs.
 
-`44. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
+`56. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
 
 > Solidity & Javascript
 
-`45. With The Truffle Config File You Can Manage...`
+`57. With The Truffle Config File You Can Manage...`
 
 > Different Networks To Deploy Your Contracts To. This Way You Can Easily Deploy To A Local Blockchain, The Main-Net Or The Ropsten/Rinkeby Test-Net With Only One Parameter.
 
