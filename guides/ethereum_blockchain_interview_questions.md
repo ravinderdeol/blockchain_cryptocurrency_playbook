@@ -220,23 +220,73 @@
 
 `53. In Order To Implement An ERC20 Token Contract, You’d Need At Least To Implement The Following Functions & Events In Order To Fulfill The Interface Requirements:`
 
-> totalSupply(), balanceOf(address), allowance(address, address), transfer(address, uint256), approve(address, uint256), transferFrom(address, address, uint256). Transfer(address, address, uint256), Approval(address, address, uint256)
+> totalSupply(), balanceOf(address), allowance(address, address), transfer(address, uint256), approve(address, uint256), transferFrom(address, address, uint256). Transfer(address, address, uint256), Approval(address, address, uint256).
+
+## Solidity Advanced
+
+`54. If Contract MyContractA Is Derived From Contract MyContractB, Then Which Would Be The Right Syntax:`
+
+> Contract MyContractA Is MyContractB { … }.
+
+`55. Inhertiance Is Useful, Because A Contract That Is Derived From Another Contract Can Make Use Of:`
+
+> All Public State Variables & Properties, Public & Internal Functions & Modifiers.
+
+`56. Finish The Sentence: The Library Web3.JS Is ...`
+
+> Useful When Developing Distributed Applications With HTML & JavaScript, Because It Already Implements The Abstraction Of The JSON-RPC Interface Of Ethereum Nodes.
+
+`57. When Solidity Is Compiled Then Also Metadata Is Generated.`
+
+> The Metadata Contains The ABI Array, Which Defines The Interface To Interact With The Smart Contract. Metadata Can Also Contain The Address Of The Smart Contract When It Gets Deployed.
+
+`58. The Difference Between address.send() & address.transfer() Is...`
+
+> .send Returns A Boolean & .transfer Throws An Exception On Error. Both Just Forward The Gas-Stipend Of 2300 Gas & Are Considered Safe Against Re-Entrancy.
+
+`59. All Low-Level Functions On The Address, So address.send(), address.call.value()(), address.callcode & address.delegatecall...`
+
+> Return Booleans To Indicate An Error During Execution.
+
+`60. When Using Assert To Check Invariants & It Evaluates To False...`
+
+> All Gas Is Consumed.
+
+`61. When Using Require To Check Input Parameters & It Evaluates To False...`
+
+> All Remaining Gas Is Returned.
+
+`62. To Send Ether To A Contract Without A Function Call:`
+
+> A Fallback Function Must Be Declared & It Must Be Made Payable. If There Is No Fallback Function Or The Fallback Function Is Not Payable It Will Throw An Exception.
+
+`63. Using selfdestruct(beneficiary) With The Beneficiary Being A Contract Without A Payable Fallback Function:`
+
+> It’s Impossible To Secure A Contract Against Receiving Ether, Because selfdestruct Will Always Send Ether To The Address In The Argument. This Is A Design Decision Of The Ethereum Platform.
+
+`64. If You Need More Fine-Grained Functionality Than Solidity Offers Out Of The Box...`
+
+> You Can Incorporate Inline-Assembly To Get Better Controls.
+
+`65. .Call vs. Delegatecall:`
+
+> Address.call() Is Used For Calling Other Contracts Using The Scope Of The Called Contract In Terms Of Storage Variables. Address.delegatecall() Is Used For Libraries, Which Uses The Storage Variables Of The Contract Who Called. Libraries Are A Great Way To Re-Use Already Existing Code & delegatecall Can Make Sure That No Storage Is Used From The Library, Instead It Looks Like The Code Is Directly Copied Into The Calling Contract.
 
 ## Truffle & Ethereum Development Frameworks
 
-`54. Truffle Is...`
+`66. Truffle Is...`
 
 > A Framework That Helps Developers With Testing, Deployment, Management Of Smart Contracts & Distributed Applications.
 
-`55. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
+`67. Unit-Testing On A Local Chain Is Important, Because It Helps You Too...`
 
 > Run Tests Quickly For Free, Compared To The Alternative Of Continuous Deployment On The Main-Network. This Saves You A Lot Of Fees, Time & Costs.
 
-`56. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
+`68. With Truffle It's Easy To Write Clean-Room Unit-Tests For...`
 
 > Solidity & Javascript
 
-`57. With The Truffle Config File You Can Manage...`
+`69. With The Truffle Config File You Can Manage...`
 
 > Different Networks To Deploy Your Contracts To. This Way You Can Easily Deploy To A Local Blockchain, The Main-Net Or The Ropsten/Rinkeby Test-Net With Only One Parameter.
 
