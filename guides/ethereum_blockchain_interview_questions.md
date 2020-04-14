@@ -184,7 +184,7 @@
 
 > Tx.Origin.
 
-`45. If A User Calls Contract A & That Calls Contract B, Then Msg.Sender In Contract B Will Contain The Address of?`
+`45. If I Call Contract A Which Calls Contract B, The Msg.Sender In Contract B Will Contain The Address of?`
 
 > Contract A.
 
