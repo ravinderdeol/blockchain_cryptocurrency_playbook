@@ -198,7 +198,7 @@
 
 `48. According To The Official Style Guide...`
 
-> Contract Names Should Be Capitalized, While Functions Should Be Mixed-Case. You Should Use 4 Spaces As Indentation & A Maximum Of 79 (Or 99) Characters Per Line.
+> Contract Names Should Be Capitalised, While Functions Should Be Mixed-Case. You Should Use 4 Spaces As Indentation & A Maximum Of 79 (Or 99) Characters Per Line.
 
 `49. A Version Pragma Is A Great Way...`
 
@@ -228,7 +228,7 @@
 
 > Contract MyContractA Is MyContractB { … }.
 
-`55. Inhertiance Is Useful, Because A Contract That Is Derived From Another Contract Can Make Use Of:`
+`55. Inheritance Is Useful, Because A Contract That Is Derived From Another Contract Can Make Use Of:`
 
 > All Public State Variables & Properties, Public & Internal Functions & Modifiers.
 
@@ -289,4 +289,3 @@
 `69. With The Truffle Config File You Can Manage...`
 
 > Different Networks To Deploy Your Contracts To. This Way You Can Easily Deploy To A Local Blockchain, The Main-Net Or The Ropsten/Rinkeby Test-Net With Only One Parameter.
-
