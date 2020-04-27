@@ -17,7 +17,7 @@ In this playbook you'll be presented with **guides, resources, and assets to kic
 
 ## Credits
 
-* [Ravinder Deol](https://twitter.com/ravinderdeolcom)
+* [Ravinder Deol](https://www.ravinderdeol.com/)
 * [Thomas Wiesner](https://www.linkedin.com/in/thomas-wiesner/)
 
 ## Licence
