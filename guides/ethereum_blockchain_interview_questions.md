@@ -289,3 +289,41 @@
 `69. With The Truffle Config File You Can Manage...`
 
 > Different Networks To Deploy Your Contracts To. This Way You Can Easily Deploy To A Local Blockchain, The Main-Net Or The Ropsten/Rinkeby Test-Net With Only One Parameter.
+
+## Contract Development Security
+
+`70. Why Is Unit-Testing So Important?`
+
+> It Helps You Find Bugs, Regression Bugs & Sometimes Also Helps You To Understand Your Code From Different Angles.
+
+`71. If You Are Starting A New ERC20-Token...`
+
+> It's Best To Start With An Audited Implementation, For Example From OpenZeppelin In order To Re-Use Existing Code.
+
+`72. To Generate A Random Number...`
+
+> It’s Good To Use The RANDAO Smart Contract.
+
+`73. When You Do External Calls To Other Smart Contracts...`
+
+> You Should Follow The Checks-Effects-Interactions Pattern & Avoid State Changes After The Call.
+
+`74. When You Are Programming A Game Like Poker Of Battleships Where You Need To Hide Opponents Values...`
+
+> You Can’t Hide Anything On The Blockchain, Because The Information Is Public, Just The Call Is Private Which Means Only Other Smart Contracts Would Be Limited In Accessing That Information.
+
+`75. When Considering Smart Contracts & The Blockchain It’s Good...`
+
+> To Move Only Those Parts To The Blockchain That Really Need The Blockchain. This Way Smart Contracts Can Be Easier To Read, Easier To Test & Are Not So Complex.
+
+`76. When A Smart Contract Pays Out Money...`
+
+> It’s Good To Use A Push & Pull Method To Ensure That Participants Can Get Their Money No Matter The Contract State. In Addition To & Pushing It Should Contain A Withdraw Method.
+
+`77. To Develop Smart Contracts...`
+
+> It’s Good To Start With A Local In-Memory Blockchain With Unit-Tests. Then, In The Next Step, Debug & Test The Smart Contract On A Test-Net Like Ropsten Or Rinkeby With Beta Customers To Iron Out Last Issues Before Deploying It To The Main-Net.
+
+`78. To Avoid Issues During Ethereum Platform Upgrades...`
+
+> It’s Good To Have The Ability To Pause A Contract In Order To Manage The Money At Risk.
