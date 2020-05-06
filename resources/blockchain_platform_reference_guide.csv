@@ -4,7 +4,7 @@ Hyperledger Sawtooth,A Modular Platform For Running Distributed Ledgers,Permissi
 Hyperledger Fabric,Foundation For Developing Solutions With A Modular Architecture,Permissioned,JavaScript / Java / Go / Node JS,Pluggable Framework,https://hyperledger-fabric.readthedocs.io
 Hyperledger Iroha,Blockchain Platform To Build A Modularised Distributed Ledger System,Permissioned,Go / JavaScript / Python / Java  / Clojure,Chain-Based Byzantine Fault Tolerance,https://iroha.readthedocs.io
 OpenChain,For Organizations Wishing To Issue & Manage Digital Assets,Permissioned,C# / Javascript / HTML / Nginx,Partitioned Consensus,https://docs.openchain.org
-Stellar,An Open Network For Storing & Moving Money,Public & Private,C++ / Go / Java / JavaScript / Python / Ruby,Stellar Consensus Protocol,https://www.stellar.org/developers
+Stellar,An Open Network For Storing & Moving Money,Public / Private,C++ / Go / Java / JavaScript / Python / Ruby,Stellar Consensus Protocol,https://www.stellar.org/developers
 NEO,An Open Network For The Smart Economy,Permissioned,C# / Java / Python,Delegated Byzantine Fault Tolerance,https://neo.org/dev
 EOS,An Open-Source Blockchain Protocol,Permissioned,C++,Delegated Byzantine Fault Tolerance,https://developers.eos.io
 Hedera Hashgraph,Create The Next Era Of Secure Applications,Permissioned,Solidity / Java,Asynchronous Byzantine Fault Tolerance,https://docs.hedera.com/docs
@@ -19,7 +19,7 @@ ArcBlock,The Easiest Way To Build dApps & Custom Blockchains,Public,Python / Jav
 Ardor,Advanced Blockchain Platform Ready To Build & Host dApps,Public,Java,Proof Of Stake,https://ardordocs.jelurida.com/Getting_started
 Cardano,Decentralized Public Blockchain Smart Contract Platform,Public,Plutus,Proof Of Stake,https://www.cardano.org/en/development
 Enigma,Decentralized Secure Computation Protocol,Private,Solidity,Proof Of Stake,https://enigma.co/discovery-documentation
-ICON,Building One Of The Largest Decentralized Networks In The World,Public & Private,Python / JavaScript / Java / Swift / HTML,Loop Fault Tolerance,https://github.com/icon-project
+ICON,Building One Of The Largest Decentralized Networks In The World,Public / Private,Python / JavaScript / Java / Swift / HTML,Loop Fault Tolerance,https://github.com/icon-project
 IOTA,Open-Source Distributed Ledger That Is Built To Power The Machine Economy,Permissionless,Rust / Go / Javascript / Java / C++,Coordinator,https://docs.iota.org
 Komodo,An Open & Composable Smart Chain Platform,Public,JavaScript / Python / C / C++ / HTML,Delayed Proof Of Work,https://komodoplatform.com/developers
 Lisk,Blockchain Application Platform,Public,JavaScript / Shell / Groovy / HTML,Delegated Proof Of Stake,https://lisk.io/documentation
@@ -28,12 +28,12 @@ NEM,The Smart Asset Blockchain,Public,JavaScript / Java / Python / C# / TypeScri
 Nxt,Blockchain Which Improves The Basic Functionality Of Cryptocurrencies,Public,Java,Proof Of Stake,https://nxtplatform.org/get-started
 Qtum,Open-Source Public Blockchain Platform Leveraging The Security Of UTXO,Public,Solidity,Proof Of Stake,https://qtum.org/en/developer
 Smilo,A Hybrid Blockchain Platform That Warrants Transparency,Hybrid,Lidity / JavaScript / Java / Python,Smilo BFT+,https://smilo.io/#whysmilo
-Stratis,Blockchain Designed For The Needs Of Real-World Financial Services Businesses,Public & Private,C#,Proof Of Stake,https://stratisplatform.com/developers
+Stratis,Blockchain Designed For The Needs Of Real-World Financial Services Businesses,Public / Private,C#,Proof Of Stake,https://stratisplatform.com/developers
 Tezos,An Open-Source Platform For Assets & Applications,Public,Michelson,Proof Of Stake,https://developers.tezos.com
-Wanchain,Infrastructure Connecting The Decentralized Financial World,Private & Public,Solidity,Proof Of Stake,https://wandevs.org
+Wanchain,Infrastructure Connecting The Decentralized Financial World,Private / Public,Solidity,Proof Of Stake,https://wandevs.org
 Waves,A Blockchain That Allows Its Users To Build Applications & Cryptocurrencies,Public,Ride,Proof Of Stake,https://wavesplatform.com/products-integration
 Zilliqa,Enables New Solutions To Real-World Problems With Its Public Blockchain,Public,Scilla,Practical Byzantine Fault Tolerance,https://zilliqa.com/for-developers.htmL
 IBM Blockchain,Revolutionizing Business With IBM Blockchain,Private,Javascript / C# / C++ / Python / Golang / Solidity / Java / Rust,Apache Kafka,https://www.ibm.com/cloud/blockchain-platform/developer
 BigChainDB,The Blockchain Database,Public / Private / Permissioned,JavaScript / Python,Byzantine Fault Tolerant,https://www.bigchaindb.com/developers/getstarted
-Microsoft Azure Blockchain,Develop & Deploy Secure Blockchain Apps,Public & Consortium,CSharp / Java / Node JS / Python / Rest / Solidity,Proof Of Authority,https://azure.microsoft.com/en-us/solutions/blockchain
+Microsoft Azure Blockchain,Develop & Deploy Secure Blockchain Apps,Public / Consortium,CSharp / Java / Node JS / Python / Rest / Solidity,Proof Of Authority,https://azure.microsoft.com/en-us/solutions/blockchain
 Kaleido,A Full-Stack Platform For Building & Running Cross-Cloud Hybrid Ecosystems,Private,Solidity,Proof Of Authority / Istanbul BFT / Raft,https://docs.kaleido.io
