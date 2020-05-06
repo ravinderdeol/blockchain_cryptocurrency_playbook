@@ -1,50 +1,50 @@
 Name,Description,Link
 Bitcoin,Decentralized P2P Digital Money (Digital Gold),https://bitcoin.org
-Ethereum, Open Software Platform Enabling Developers To Create Dapps,https://ethereum.org
-Bitcoin Cash, Peer-To-Peer Electronic Cash Forked From Bitcoin,https://bitcoincash.org
-Ripple,Distributed & Open-Source Payment Settlement Network,https://ripple.com
-Dash,Private Digital Cash Based On Bitcoin,https://dash.org
-Litecoin,Peer-To-Peer Internet Currency With Low Fees,https://litecoin.org
+Ethereum, Open Software Platform Create Dapps,https://ethereum.org
+Bitcoin Cash, Peer-To-Peer Electronic Cash (Bitcoin Fork),https://bitcoincash.org
+Ripple,Distributed Payment Settlement Network,https://ripple.com
+Dash,Private Digital Cash,https://dash.org
+Litecoin,Peer-To-Peer Internet Currency,https://litecoin.org
 Monero,Privacy Focussed Cryptocurrency,https://getmonero.org
-NEO,Decentralized (Open-Source) Cryptocurrency & Blockchain Platform,https://neo.org
-IOTA,Blockchainless Cryptocurrency For Internet Of Things Market,https://iota.org
-Ethereum Classic,Similar To Ethereum But Created As A Result Of The Hard Fork,https://etcchain.com
-NEM,P2P Cryptocurrency & Smart Asset Blockchain Platform,https://nem.io
-EOS,Blockchain Based Decentralized Operating System,https://eos.io
+NEO,Decentralized Cryptocurrency & Blockchain Platform,https://neo.org
+IOTA,Blockchainless Cryptocurrency For IOT,https://iota.org
+Ethereum Classic,Created As A Result Of The Ethereum Hard Fork,https://etcchain.com
+NEM,Smart Asset Blockchain Platform,https://nem.io
+EOS,Blockchain-Based Decentralized Operating System,https://eos.io
 Cardano,Layered Platform To Run Dapps & Smart Contracts,https://cardanohub.org
 Qtum,Contracts Bridging Ethereum & Bitcoin Communities,https://qtum.org
 Zcash,Anonymity Focussed Cryptocurrency,https://z.cash
-OmiseGo,Ethereum Based Decentralized Exchange Allowing Financial Transactions,https://omisego.network
-Lisk,Blockchain That Provides Dapps Using Sidechains,https://lisk.io
+OmiseGo,Decentralized Exchange,https://omisego.network
+Lisk,Blockchain Which Provides dApps Using Sidechains,https://lisk.io
 Stellar Lumens,Open Source Protocol For Exchanging Money,https://stellar.org
-Hshare,Decentralized Cryptocurrency (Exchange Value & Data Cross Platform),https://h.cash
-Bitcoin Gold,Fork On The Bitcoin Chain Aiming To Make Mining Decentralized Again,https://bitcoingold.org
-Tether,Stable Digital Currency Equivalent Equal To $1 USD,https://tether.to
-Waves,Allows Users To Launch Their Own Cryptocurrency Tokens,https://wavesplatform.com
-Stratis,Test & Deploy Blockchain Applications In C# & Microsoft .NET Framework,https://stratisplatform.com
-MonaCoin,Japan Focussed Cryptocurrency Which Is A Fork Of Litecoin,https://monacoin.org
-Nxt,Blockchain Platform Which Has An Asset Exchange & More,https://nxtplatform.org
-Ardor,Public Blockchain That Allows Use Of Nxt Blockchain Through Child Chains,https://ardorplatform.org
-ByteCoin,Private & Decentralized Cryptocurrency With Open Source Code,https://bytecoin.org
-BitShares,Decentralized Exchange & Fintech Platform,https://bitshares.org
-Steem,Blogging & Social Networking Site Upon The Steem Blockchain,https://steemit.com
-Salt,Leverage Your Blockchain Assets To Secure Cash Loans,https://saltlending.com
-Dogecoin,Created As A Joke Cryptocurrency But Rapidly Growed As A Form Of Cryptocurrency,https://dogecoin.com
-Augur,Decentralized Prediction Market Platform Built On Ethereum,https://augur.net
-SiaCoin,Open Source Blockchain Based Decentralized Cloud Storage Platform,https://sia.tech
-Golem,A Worldwide Super Computer Stated As The AirBnB of Computing,https://golem.network
-PIVX,Anonymous Cryptocurrency Using The Zerocoin Protocol,https://pivx.org
-Aeternity,Smart Contract Focussed Blockchain Similar To Ethereum,https://aeternity.com
-TenX,Payment Platform For Blockchain Assets Supporting Multiple Assets,https://tenx.tech
-Verge,Secure & Anonymous Cryptocurrency Built With Privacy In Mind Previously DogeCoinDark,https://vergecurrency.com
-DigixDAO,Smart Contract DAO Software To Build The 21st Century Gold Standard Financial Platform,https://digix.global/dgd
-Factom,Builds Blockchain Software Securing Data For Private & Public Organizations,https://factom.com
+Hshare,Decentralized Cryptocurrency,https://h.cash
+Bitcoin Gold,A Fork Of Bitcoin,https://bitcoingold.org
+Tether,Stable Digital Currency Equivalent To $1 USD,https://tether.to
+Waves,Allows Users To Launch Their Own Cryptocurrency,https://wavesplatform.com
+Stratis,Deploy Blockchain Applications In C# & Microsoft .NET Frameworks,https://stratisplatform.com
+MonaCoin,Japanese Focussed Cryptocurrency (Fork Of Litecoin),https://monacoin.org
+Nxt,Blockchain Asset Exchange Platform,https://nxtplatform.org
+Ardor,Public Blockchain For Building Applications,https://ardorplatform.org
+ByteCoin,Decentralized Cryptocurrency,https://bytecoin.org
+BitShares,Decentralized Exchange,https://bitshares.org
+Steem,Social Network Upon The Steem Blockchain,https://steemit.com
+Salt,Leverage Your Blockchain Assets To Secure Loans,https://saltlending.com
+Dogecoin,Created As A Joke Cryptocurrency,https://dogecoin.com
+Augur,Decentralized Prediction Market Platform,https://augur.net
+SiaCoin,Decentralized Cloud Storage Platform,https://sia.tech
+Golem,Worldwide Super Computer,https://golem.network
+PIVX,Anonymous Cryptocurrency,https://pivx.org
+Aeternity,Smart Contract Focussed Blockchain,https://aeternity.com
+TenX,Payment Platform For Blockchain Assets,https://tenx.tech
+Verge,Cryptocurrency Built With Privacy In Mind,https://vergecurrency.com
+DigixDAO,Smart Contract DAO Software,https://digix.global/dgd
+Factom,Builds Blockchain Software,https://factom.com
 MaidSafeCoin,Autonomous Data Network,https://maidsafe.net
-DigiByte,Open Source Cryptocurrency Running On The DigiByte Blockchain (Based On Bitcoin),https://digibyte.co
-Gnosis,Decentralized Prediction Market On Top Of The Ethereum Network,https://gnosis.pm
-Monaco,Allows The Transacting Of Fiat Currencies & Cryptocurrencies,https://mona.co
-GameCredits,Blockchain Based App Store Where Mobile Game Developers Can Sell Their Games,https://gamecredits.com
-Bancor,Enables Anyone To Create A New Type Of Cryptocurrency,https://bancor.network
+DigiByte,Open Source Cryptocurrency (Based On Bitcoin),https://digibyte.co
+Gnosis,Decentralized Prediction Market,https://gnosis.pm
+Monaco,Enbles The Transacting Of Fiat Currencies & Cryptocurrencies,https://mona.co
+GameCredits,Blockchain Based App Store,https://gamecredits.com
+Bancor,Enables Cryptocurrency Creation,https://bancor.network
 Civic,Identity Verification Via The Blockchain,https://civic.com
-PeerCoin,Forked From Bitcoin P2P Cryptocurrency Utilizing Proof-Of-Stake & Proof-Of-Work Systems,https://peercoin.com
+PeerCoin,P2P Cryptocurrency (Forked From Bitcoin),https://peercoin.com
 Storj,Decentralised Cloud Storage,https://storj.io
