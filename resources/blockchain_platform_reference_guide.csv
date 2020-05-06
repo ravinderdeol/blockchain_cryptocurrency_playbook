@@ -1,2 +1,15 @@
 Name,Description,Blockchain,Languages,Consensus,Link
 Ethereum,An Open-Source Platform For Decentralized Applications,Public,C++ / Go / Rust / Solidity,Proof Of Work,https://www.ethereum.org/developers/
+Hyperledger Sawtooth,A Modular Platform For Running Distributed Ledgers,Permissioned,Python / C++ / Go / Java / JavaScript / Rust,Pluggable Framework,https://sawtooth.hyperledger.org/docs
+Hyperledger Fabric,Foundation For Developing Solutions With A Modular Architecture,Permissioned,JavaScript / Java / Go / Node JS,Pluggable Framework,https://hyperledger-fabric.readthedocs.io
+Hyperledger Iroha,Blockchain Platform To Build A Modularised Distributed Ledger System,Permissioned,Go / JavaScript / Python / Java  / Clojure,Chain-Based Byzantine Fault Tolerance,https://iroha.readthedocs.io
+OpenChain,For Organizations Wishing To Issue & Manage Digital Assets,Permissioned,C# / Javascript / HTML / Nginx,Partitioned Consensus,https://docs.openchain.org
+Stellar,An Open Network For Storing & Moving Money,Public & Private,C++ / Go / Java / JavaScript / Python / Ruby,Stellar Consensus Protocol,https://www.stellar.org/developers
+NEO,An Open Network For The Smart Economy,Permissioned,C# / Java / Python,Delegated Byzantine Fault Tolerance,https://neo.org/dev
+EOS,An Open-Source Blockchain Protocol,Permissioned,C++,Delegated Byzantine Fault Tolerance,https://developers.eos.io
+Hedera Hashgraph,Create The Next Era Of Secure Applications,Permissioned,Solidity / Java,Asynchronous Byzantine Fault Tolerance,https://docs.hedera.com/docs
+R3 Corda,An Open-Source Platform That Enables Businesses To Transact Directly,Permissioned,Kotlin,Pluggable Framework,https://docs.corda.net
+
+
+
+
