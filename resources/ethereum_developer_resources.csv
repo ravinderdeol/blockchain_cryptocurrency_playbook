@@ -4,8 +4,10 @@ Vyper,Programming Language,Pythonic Programming Language For Smart Contracts,htt
 Javascript,Programming Language,High Level Interpreted Scripting Language,https://en.wikipedia.org/wiki/JavaScript
 Python,Programming Language,Interpreted High Level General Purpose Programming Language,https://en.wikipedia.org/wiki/Python_(programming_language)
 Go,Programming Language,The Language In Which Geth (Go-Ethereum) Client Is Written In,https://github.com/ethereum/go-ethereum
-Rust,Programming Language,Language In Which The Parity Client Is Written In,https://www.parity.io/why-rust/
-Java,Programming Language,The Pantheon Client Is Written In Java,https://docs.pantheon.pegasys.tech/en/stable/
+Rust,Programming Language,Language In Which The Parity Client Is Written In,https://www.parity.io/why-rust
+Java,Programming Language,The Pantheon Client Is Written In Java,https://docs.pantheon.pegasys.tech/en/stable
 .Net,Programming Language,Intergrateable To The Ethereum Blockchain With Nethereum,https://nethereum.com
 C++,Programming Language,Protocol Development With The Help Of Github/Aleth,https://github.com/ethereum/aleth
 Ruby,Programming Language,See How Ruby Is Used In Ethereum With Github/Ethereum.RB,https://github.com/EthWorks/ethereum.rb
+OpenZeppelin,Smart Contract Libraries,Implementation Standards For ERC20 & ERC721,https://openzeppelin.com
+Dappsys,Smart Contract Libraries,Building Blocks For Building Smart Contracts In Solidity,https://dappsys.readthedocs.io
