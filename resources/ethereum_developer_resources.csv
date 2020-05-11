@@ -19,3 +19,7 @@ Waffle,Smart Contract Testing & Deployment Tools,Simple Library For Writing & Te
 Embark,Smart Contract Testing & Deployment Tools,All In One Platform For Building & Deploying Applications,https://embark.status.im
 Infura,Smart Contract Testing & Deployment Tools,Provides Instant & Scalable API Access To The Ethereum & IPFS’s,https://infura.io
 Rhombus,Smart Contract Testing & Deployment Tools,Oracle Solution For Your Smart Contract,https://rhombus.network
+PegaSys Pantheon,Ethereum Blockchain Clients,Open Source Ethereum Client Written In Java,https://docs.pantheon.pegasys.tech/en/stable
+Parity,Ethereum Blockchain Clients,Ethereum Client Using The Rust Programming Language,https://www.parity.io
+Geth,Ethereum Blockchain Clients,Command Line Interface For Running A Full Ethereum Node,https://github.com/ethereum/go-ethereum/wiki/geth
+Metamask,Ethereum Blockchain Clients,Chrome Extension Brining Ethereum To Your Browser,https://metamask.io
