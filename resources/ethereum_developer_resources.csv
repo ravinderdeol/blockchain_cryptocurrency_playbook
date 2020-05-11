@@ -38,3 +38,6 @@ Drizzle,Front–End Interfaces,Front End Libraries That Make Writing Dapp UI Eas
 Web3.PY,Back-End Interfaces,Python Implementation Of Web3.JS,https://github.com/ethereum/web3.py
 Nethereum,Back-End Interfaces,An Open Source .NET Integration Library For Blockchain,https://nethereum.com/index.html
 Web3J,Back-End Interfaces,Lightweight Java & Android Library,https://github.com/web3j/web3j
+IPFS,Blockchain Storage Platforms,P2P Hypermedia Protocol To Make The Web Faster & Safer,https://ipfs.io
+Swarm,Blockchain Storage Platforms,Distributed Storage Platform & Content Distribution Service,https://swarm-guide.readthedocs.io/en/latest/index.html
+OrbitDB,Blockchain Storage Platforms,Decentralised P2P Database Upon IPFS,https://github.com/orbitdb/orbit-db
