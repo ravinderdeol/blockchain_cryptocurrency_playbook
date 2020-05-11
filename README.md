@@ -16,6 +16,7 @@ In this playbook you'll be presented with **guides, resources, and assets to kic
 * [Cryptocurrency & Blockchain Job Boards](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/job_boards.csv)
 * [Cryptocurrency Reference Guide](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/cryptocurrency_reference_guide.csv)
 * [Blockchain Platform Reference Guide](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/blockchain_platform_reference_guide.csv)
+* [Ethereum Developer Resources](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/ethereum_developer_resources.csv)
 
 ## Credits
 
