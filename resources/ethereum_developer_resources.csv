@@ -32,3 +32,6 @@ Ropsten,Public Testnets,POW Blockchain That Resembles Ethereum To Mine Faux Ethe
 Kovan,Public Testnets,POA Blockchain Created By Parity,https://kovan.etherscan.io
 Rinkeby,Public Testnets,POA Blockchain Created By Geth,https://www.rinkeby.io
 Görli,Public Testnets,Community Based & Open,https://goerli.net
+Web3.JS,Front–End Interfaces,Ethereum JavaScript API Which Connects To Generic JSON RPC,https://github.com/ethereum/web3.js
+Ether.JS,Front–End Interfaces,Ethereum Wallet Implementation,https://github.com/ethers-io/ethers.js
+Drizzle,Front–End Interfaces,Front End Libraries That Make Writing Dapp UI Easier,https://www.trufflesuite.com/drizzle
