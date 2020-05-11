@@ -28,3 +28,7 @@ Remix,IDE & Editing Tools,Tools Allowing You To Debug Trasactions On Ethereum,ht
 Visual Studio Code,IDE & Editing Tools,Ethereum Solidity Language For Visual Studio Code,https://marketplace.visualstudio.com
 Ganache,Local Testnets,Quickly Fire Up A Personal Ethereum Blockchain To Test,https://www.trufflesuite.com/ganache
 Ganache CLI,Local Testnets,A Quick Ethereum RPC Client For Testing & Development,https://github.com/trufflesuite/ganache-cli
+Ropsten,Public Testnets,POW Blockchain That Resembles Ethereum To Mine Faux Ether,https://ropsten.etherscan.io
+Kovan,Public Testnets,POA Blockchain Created By Parity,https://kovan.etherscan.io
+Rinkeby,Public Testnets,POA Blockchain Created By Geth,https://www.rinkeby.io
+Görli,Public Testnets,Community Based & Open,https://goerli.net
