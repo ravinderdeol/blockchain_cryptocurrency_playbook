@@ -23,3 +23,6 @@ PegaSys Pantheon,Ethereum Blockchain Clients,Open Source Ethereum Client Written
 Parity,Ethereum Blockchain Clients,Ethereum Client Using The Rust Programming Language,https://www.parity.io
 Geth,Ethereum Blockchain Clients,Command Line Interface For Running A Full Ethereum Node,https://github.com/ethereum/go-ethereum/wiki/geth
 Metamask,Ethereum Blockchain Clients,Chrome Extension Brining Ethereum To Your Browser,https://metamask.io
+Atom,IDE & Editing Tools,Open Source & Usable Text Editor,https://atom.io
+Remix,IDE & Editing Tools,Tools Allowing You To Debug Trasactions On Ethereum,https://github.com/ethereum/remix
+Visual Studio Code,IDE & Editing Tools,Ethereum Solidity Language For Visual Studio Code,https://marketplace.visualstudio.com
