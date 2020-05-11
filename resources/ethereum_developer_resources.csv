@@ -35,3 +35,6 @@ Görli,Public Testnets,Community Based & Open,https://goerli.net
 Web3.JS,Front–End Interfaces,Ethereum JavaScript API Which Connects To Generic JSON RPC,https://github.com/ethereum/web3.js
 Ether.JS,Front–End Interfaces,Ethereum Wallet Implementation,https://github.com/ethers-io/ethers.js
 Drizzle,Front–End Interfaces,Front End Libraries That Make Writing Dapp UI Easier,https://www.trufflesuite.com/drizzle
+Web3.PY,Back-End Interfaces,Python Implementation Of Web3.JS,https://github.com/ethereum/web3.py
+Nethereum,Back-End Interfaces,An Open Source .NET Integration Library For Blockchain,https://nethereum.com/index.html
+Web3J,Back-End Interfaces,Lightweight Java & Android Library,https://github.com/web3j/web3j
