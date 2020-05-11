@@ -14,3 +14,8 @@ Dappsys,Smart Contract Libraries,Building Blocks For Building Smart Contracts In
 MythX,Smart Contract Security Tools,Service That Finds Vulnerabilities In Your Smart Contract Code,https://mythx.io
 Oyente,Smart Contract Security Tools,Utilizes A Execution Tool That Works With EVM Byte Code,https://github.com/melonproject/oyente
 Manticore,Smart Contract Security Tools,Command Line Interface Using A Symbolic Execution Tool,https://www.trailofbits.com/research-and-development/manticore
+Truffle Suite,Smart Contract Testing & Deployment Tools,Smart Contract Dev - Testing - Deployment Framework,https://www.trufflesuite.com
+Waffle,Smart Contract Testing & Deployment Tools,Simple Library For Writing & Testing Smart Contracts In Ether.JS,https://getwaffle.io
+Embark,Smart Contract Testing & Deployment Tools,All In One Platform For Building & Deploying Applications,https://embark.status.im
+Infura,Smart Contract Testing & Deployment Tools,Provides Instant & Scalable API Access To The Ethereum & IPFS’s,https://infura.io
+Rhombus,Smart Contract Testing & Deployment Tools,Oracle Solution For Your Smart Contract,https://rhombus.network
