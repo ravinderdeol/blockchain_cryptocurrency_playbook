@@ -41,3 +41,5 @@ Web3J,Back-End Interfaces,Lightweight Java & Android Library,https://github.com/
 IPFS,Blockchain Storage Platforms,P2P Hypermedia Protocol To Make The Web Faster & Safer,https://ipfs.io
 Swarm,Blockchain Storage Platforms,Distributed Storage Platform & Content Distribution Service,https://swarm-guide.readthedocs.io/en/latest/index.html
 OrbitDB,Blockchain Storage Platforms,Decentralised P2P Database Upon IPFS,https://github.com/orbitdb/orbit-db
+Alethio,Data Querying Tools,Ethereum Data Analytics Platform,https://aleth.io
+Etherscan,Data Querying Tools,Block Explorer & Analytics Platform For Ethereum,https://etherscan.io
