@@ -11,3 +11,6 @@ C++,Programming Language,Protocol Development With The Help Of Github/Aleth,http
 Ruby,Programming Language,See How Ruby Is Used In Ethereum With Github/Ethereum.RB,https://github.com/EthWorks/ethereum.rb
 OpenZeppelin,Smart Contract Libraries,Implementation Standards For ERC20 & ERC721,https://openzeppelin.com
 Dappsys,Smart Contract Libraries,Building Blocks For Building Smart Contracts In Solidity,https://dappsys.readthedocs.io
+MythX,Smart Contract Security Tools,Service That Finds Vulnerabilities In Your Smart Contract Code,https://mythx.io
+Oyente,Smart Contract Security Tools,Utilizes A Execution Tool That Works With EVM Byte Code,https://github.com/melonproject/oyente
+Manticore,Smart Contract Security Tools,Command Line Interface Using A Symbolic Execution Tool,https://www.trailofbits.com/research-and-development/manticore
