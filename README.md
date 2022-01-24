@@ -19,10 +19,15 @@ In this playbook you'll be presented with **guides, resources, and assets to kic
 * [Ethereum Developer Resources](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/ethereum_developer_resources.csv)
 * [Stablecoin Reference Guide](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/resources/stablecoin_reference_guide.csv)
 
+## Research
+
+* [The Sandbox](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/research/the_sandbox.csv)
+
 ## Credits
 
 * [Ravinder Deol](https://www.ravinderdeol.com/)
-* [Thomas Wiesner](https://www.linkedin.com/in/thomas-wiesner/)
+* [Thomas Wiesner](https://vomtom.at/)
+* [Crypto Condensed](https://cryptocondensed.com/)
 
 ## Licence
 
