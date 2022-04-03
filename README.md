@@ -22,6 +22,7 @@ In this playbook you'll be presented with **guides, resources, and research to k
 
 * [The Sandbox](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/research/the_sandbox.csv)
 * [Abracadabra Money](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/research/abracadabra_money.csv)
+* [LooksRare](https://github.com/ravinderdeol/blockchain-career-playbook/blob/master/research/looksrare.csv)
 
 ## Credits
 
