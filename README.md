@@ -1,6 +1,6 @@
 # Blockchain and Cryptocurrency Playbook
 
-Welcome to the **Blockchain and Cryptocurrency Playbook*.
+Welcome to the *Blockchain and Cryptocurrency Playbook*.
 
 In this playbook you'll be presented with **guides, resources, and research to kickstart your journey**.
 
